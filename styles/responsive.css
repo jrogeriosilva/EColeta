@@ -10,7 +10,7 @@
 
     #page-home header a {
         position: absolute;
-        bottom: 48px;
+        bottom: 10px;
 
         left: 50%;
         transform: translateX(-50%);
