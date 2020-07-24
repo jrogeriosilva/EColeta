@@ -19,6 +19,36 @@
     #page-home main {
         align-items: center;
     }
+
+    #page-home main h1 {
+        font-size: 48px;
+    }
+
+    #page-home main a {
+        margin-top: 15px;
+    }
+
+    #page-home main a,
+    #page-home main a span {
+        height: 40px;
+    }
+
+
+
+    #page-home main p {
+        font-size: 24px;
+    }
+
+    #page-search-results .cards {
+        grid-template-columns: 1fr;
+    }
+
+    #page-search-results .cards img {
+        height: 200px;
+    }
+
+
+
 }
 
 @media (min-width: 1700px){
